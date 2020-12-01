@@ -1,0 +1,4 @@
+--- 
+src_dir: /test_src_dir
+dest_dir: /test_dest_dir
+dir_list: /dir_list.txt
